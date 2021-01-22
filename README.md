@@ -13,6 +13,10 @@
   💼 Ferramentas: <strong>VSCODE, Postman, Docker, Git and GitHub.</strong>
 </p>
 
+<p aling="left">
+  🧱 Frameworks: <strong>Laravel 5+, Lumen and Jquery.</strong>
+</p>
+
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
