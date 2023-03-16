@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:contato@alexnogueira.com" alt="Gmail">
+  <a href="mailto:allex@nogue.dev" alt="email">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/allexnogue/" alt="Linkedin">
